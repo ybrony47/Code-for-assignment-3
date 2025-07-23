@@ -12,3 +12,4 @@ Serial.println("High voltage detected!");
 Serial.println("No high voltage detected (safe).");
 }
 delay(500);
+}
